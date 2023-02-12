@@ -1,3 +1,2 @@
-# adafruit-clue-template
-Template for simple Adafruit Clue apps in Rust.
-Edit Cargo.toml to reflect your actual dependencies.
+# clue-co2
+Simple rust app to read from the SCD41 CO2 monitor on the Adafruit Clue.

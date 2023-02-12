@@ -22,6 +22,9 @@ embedded-graphics = "0.7"
 st7789 = "0.6.1"
 display-interface = "0.4"
 display-interface-spi = "0.4"
+# CO2 (external SCD41)
+scd4x = "0.2.1"
+#scd4x = { git = "https://github.com/hauju/scd4x-rs" }
 # gyro/accel
 lsm6ds33 = "0.3.0"
 # magnetometer
